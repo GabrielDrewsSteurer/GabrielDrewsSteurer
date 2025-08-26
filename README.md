@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Drews Steurer
 
-<!--
-**GabrielDrewsSteurer/GabrielDrewsSteurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na **UNIJUÍ** (7º semestre)  
+☁️ Interessado em dados, automação e soluções em nuvem  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Contato
+- 📧 E-mail: [gabrieldrewssteurer@gmail.com](mailto:gabrieldrewssteurer@gmail.com)  
+- 💼 LinkedIn: [@GabrielDrews](https://www.linkedin.com/in/gabrieldrews)  
+- 💻 GitHub: [@GabrielDrewsSteurer](https://github.com/GabrielDrewsSteurer)  
+- 📍 Ijuí, Brasil  
+
+---
+
+## 💻 Tecnologias
+- **Linguagens:** Python · Java · JavaScript · HTML · CSS  
+- **Cloud:** AWS (Lambda, Glue, QuickSight) · Google Cloud  
+- **Banco de Dados:** MySQL · PostgreSQL  
+- **Versionamento:** Git · GitHub  
+
+---
+
+## 📜 Certificações
+- ✅ **AWS Certified Cloud Practitioner**  
+- ✅ **Google Cloud Computing Foundations Certificate**  
