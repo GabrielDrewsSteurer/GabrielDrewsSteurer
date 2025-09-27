@@ -7,8 +7,6 @@
 
 ## 📌 Contato
 - 📧 E-mail: [gabrieldrewssteurer@gmail.com](mailto:gabrieldrewssteurer@gmail.com)  
-- 💼 LinkedIn: [@GabrielDrews](https://www.linkedin.com/in/gabrieldrews)  
-- 💻 GitHub: [@GabrielDrewsSteurer](https://github.com/GabrielDrewsSteurer)  
 - 📍 Ijuí, Brasil  
 
 ---
