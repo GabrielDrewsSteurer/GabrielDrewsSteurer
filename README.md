@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Drews Steurer
 
-🎓 Estudante de Ciência da Computação na **UNIJUÍ** (7º semestre)  
+🎓 Estudante de Ciência da Computação na **UNIJUÍ** (9º semestre)  
 ☁️ Interessado em dados, automação e soluções em nuvem  
 
 ---
